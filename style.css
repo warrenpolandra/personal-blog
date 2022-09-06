@@ -10,6 +10,12 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+.profpic img{
+    margin-top: 40px;
+    width: 70%;
+    border-radius: 50%;
+}
+
 .wrapper{
     width: 1100px;
     margin: auto;
